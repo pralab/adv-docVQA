@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Quickstart
 
-Test our adversarial document forgery through our [Google Colab notebook](link)
+Test our adversarial document forgery through our [Google Colab notebook](https://colab.research.google.com/drive/11vaEn8xRbzuRbpO2MkS9pwrb6sgar8LG?usp=sharing).
 
 In the notebook, you can:
 
@@ -36,7 +36,7 @@ In the notebook, you can:
 > [!TIP]
 > You can define your own masks! For example, try the one on Colab that doesn't apply perturbation to all white pixels.
 
-If you prefer to run the base attacks locally, check out the [examples/](examples/) folder.
+If you prefer to run the base attacks locally, check out the [/examples](/examples) folder.
 
 ---
 
